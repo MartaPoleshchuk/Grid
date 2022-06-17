@@ -6,122 +6,104 @@
     }
 .item {
     min-height: 100px;
+    background-size: cover;
 }
 .i1 {
     background-image: url(./img/1.jpg);
-    background-size: cover;
     grid-column: col 1 / col 3;
     grid-row: row 1 / row 3;
 }
 .i2 {
     background-image: url(./img/2.jpg);
-    background-size: cover;
     grid-column: col 3 / col 4;
 }
 .i3 {
     background-image: url(./img/3.jpg);
-    background-size: cover;
     grid-column: col 4 / col 5;
     
     }
 .i4 {
     background-image: url(./img/4.jpg);
-    background-size: cover;
     grid-column: col 5 / col 6;
     }
 .i5 {
     background-image: url(./img/5.jpg);
-    background-size: cover;
     grid-column: col 3 / col 4;
     grid-row: row 2 / row 3;
     }
 .i6 {
     background-image: url(./img/6.jpg);
-    background-size: cover;
     grid-column: col 4 / col 6;
     grid-row: row 2 / row 4;
     }
 
 .i7 {
     background-image: url(./img/7.jpg);
-    background-size: cover;
     grid-column: col 1 / col 2;
     grid-row: row 3 / row 4;
     }
 .i8 {
     background-image: url(./img/8.jpg);
-    background-size: cover;
     grid-column: col 1 / col 2;
     grid-row: row 4 / row 5;
     }
 .i9 {
     background-image: url(./img/9.jpg);
-    background-size: cover;
     grid-column: col 4 / col 5;
     grid-row: row 4 / row 5;
     }
 .i10 {
     background-image: url(./img/10.jpg);
-    background-size: cover;
     background-position: center center;
     grid-column: col 5 / col 6;
     grid-row: row 4 / row 5;
     }
 .i11 {
     background-image: url(./img/11.jpg);
-    background-size: cover;
     grid-column: col 2 / col 4;
     grid-row: row 3 / row 5;
     }
 .i12 {
     background-image: url(./img/12.jpg);
-    background-size: cover;
     background-position: center center;
     grid-column: col 10 / col 12;
     grid-row: row 1 / row 3;
     }
 .i13 {
     background-image: url(./img/13.jpg);
-    background-size: cover;
     grid-column: col 6 / col 10;
     grid-row: row 1 / row 5;
     }
 .i14 {
     background-image: url(./img/14.jpg);
-    background-size: cover;
     background-position: center center;
     grid-column: col 12 / col 14;
     grid-row: row 3 / row 5;
     }
 .i15 {
     background-image: url(./img/15.jpg);
-    background-size: cover;
     background-position: center center;
     grid-column: col 12 / col 13;
     }
 .i16 {
-        background-image: url(./img/16.jpg);
-        background-size: cover;
-        background-position: center center;
-        grid-column: col 12 / col 13;
-        grid-row: row 2 / row 3;
-        }
+    background-image: url(./img/16.jpg);
+    background-position: center center;
+    grid-column: col 12 / col 13;
+    grid-row: row 2 / row 3;
+    }
 .i17 {
     background-image: url(./img/17.jpg);
-    background-size: cover;
     background-position: center;
     grid-column: col 10 / col 12;
     grid-row: row 3 / row 5;
     }
 .i18 {
     background-image: url(./img/18.jpg);
-    background-size: cover;
     grid-column: col 13 / col 14;
     grid-row: row 1 / row 2;
     }
 .i19 {
     background-image: url(./img/19.jpg);
-    background-size: cover;
     background-position: center center;
     grid-column: col 13 / col 14;
     grid-row: row 2 / row 3;
